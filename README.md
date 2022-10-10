@@ -27,3 +27,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaya-9&show_icons=true&locale=en" alt="akshaya-9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaya-9&" alt="akshaya-9" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
